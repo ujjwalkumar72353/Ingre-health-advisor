@@ -615,7 +615,7 @@ const HealthAdvisor = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.2 }}
               >
-                About NutriScan Advisor
+                About Ingre Health Advisor
               </motion.h2>
               
               <div className="about-content">
@@ -830,7 +830,7 @@ const HealthAdvisor = () => {
                       </div>
                       <div>
                         <h4 className="contact-item-title">Email</h4>
-                        <p className="contact-item-text">contact@nutriscan.com</p>
+                        <p className="contact-item-text">contact@ingrehealthadvisor.com</p>
                       </div>
                     </motion.div>
                     
